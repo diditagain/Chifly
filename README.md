@@ -3,7 +3,7 @@
 Chifly is a hobby project that I made for my sister. 
 
 It takes given destinations from a google sheets file and modifies the file with te destinations' IATA Codes.
-Then, from the day you run the program to 30 days ahaed, searches all flights to those destinations and alerts you if there is any cheaper one than the price you input.
+Then, from the day you run the program and to 30 days ahaed, searches all flights to those destinations and alerts you if there is any cheaper one than the price you input.
 
 To use it you need couple of things:
 
